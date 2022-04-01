@@ -1,0 +1,23 @@
+.carousel-caption {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+span{
+    color:black;
+    background-color: white;
+}
+.card tittle{
+    position: absolute;
+    top: 0;
+    align-items: center;
+    justify-content: center;
+}
+.car{
+    width: 900px;
+    height: 900px;
+    justify-content: center;
+    display: inline-block;
+    margin: 20px;
+    padding:7px
+}
